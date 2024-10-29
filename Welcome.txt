@@ -1,0 +1,1 @@
+This is the GutHub Folder for the lecture "Probabilistic Design Methods and Structural Safety".
